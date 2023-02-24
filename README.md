@@ -5,7 +5,10 @@
   
   Pronouns: Any  
   
-  Intrests/Hobbies: Programming / IT (duh), Drawing, Figure skating, Video games  
+  Intrests/Hobbies: Programming / IT (duh), Drawing, Figure skating, Video games 
+  
+### :fire: My Stats :  
+
   
 ## Languages: -
 
