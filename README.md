@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sup!
 
-<!--
-**Kokke3000/Kokke3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
+  Age: 16
+  Pronouns: Any
+  Intrests/Hobbies: Programming / IT (duh), Drawing, Figure skating, Video games
+## Languages:
 
-Here are some ideas to get you started:
+Main: HTML, CSS, PHP, Javascript, Python
+Others: C#, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects:
+
+Larp net: A UI-website for a larp in the summer of 2023
+
+
