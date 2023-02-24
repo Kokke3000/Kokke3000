@@ -7,7 +7,8 @@
   
   Intrests/Hobbies: Programming / IT (duh), Drawing, Figure skating, Video games 
   
-### :fire: My Stats :  
+## My stats:
+[![Kokke3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokke300)](https://github.com/Kokke3000/github-readme-stats)  
 
   
 ## Languages: -
