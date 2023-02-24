@@ -11,9 +11,11 @@
 [![Kokke3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokke3000)](https://github.com/Kokke3000/github-readme-stats)  
 
 ## Top languages:
+(The amount of PHP code is grossly over exaggerated due to all my .html files being .php instead to run php inside of them.)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokke3000)](https://github.com/Kokke3000/github-readme-stats)
 
-## Languages: -
+## Languages i know: -
 
 Main: HTML, CSS, PHP, Javascript, Python  
 
