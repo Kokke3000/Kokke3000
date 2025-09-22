@@ -1,9 +1,9 @@
 ### Sup!
 
 ## About me:
-  Age: 16  
+  Age: 19
   
-  Pronouns: Any  
+  Pronouns: She/Her
   
   Intrests/Hobbies: Programming / IT (duh), Drawing, Figure skating, Video games 
   
