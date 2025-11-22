@@ -3,7 +3,7 @@
 ## About me:
   Age: 19
   
-  Pronouns: She/Her
+  Pronouns: It/It's She/Her
   
   Intrests/Hobbies: Programming / IT (duh), Drawing, Figure skating, Video games 
   
@@ -26,6 +26,6 @@ Others: C#, C++
 
 Larp net: A UI-website for a larp in the summer of 2023  
 
-CigarLounge: An open source LAN chat website.
+CigarLounge: A private chat website.
 
 
