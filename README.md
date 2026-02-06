@@ -18,7 +18,7 @@
   Intrests/Hobbies: Programming / IT, Drawing, Anime, Video games, Game development
 
 ## Taken courses within the field:
-<courses>
+<courses>  
 
 Game development:   
   - Game development project 1: Basics of unity, C#, Game development, Design, Teamwork in gamedev   
@@ -36,7 +36,7 @@ Mathematics:
   - Introductory Calculus  
   - Vectors and matricies  
   - Integrals and differential equations  
-</courses>
+</courses> 
   
 ## Languages I know:  
 
