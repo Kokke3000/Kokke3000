@@ -36,19 +36,21 @@
 
 ## Languages I know:  
 
-  Main: GDScript, C#, Python  
+  Main: GDScript, C#, Python, C++ 
   
-  Others: C++, HTML, CSS, PHP, JavaScript  
+  Others: HTML, CSS, PHP, JavaScript  
+
+## Engines I have used:  
+
+  - Godot:
+      - One personal project planned for release, aswell as smaller experimentation projects.
+  - Unity:
+      - Two released games made in teams, aswell as smaller non-released personal projects.
 
 ## Other game-dev skills:  
 
   Beginner: 2D art/pixelart, 3D modeling (blender), texture creation, game music   
   Intermediate: Game design, UI design   
-
-## Engines I have used:  
-
-  Godot, Unity   
-
 
 ## Current projects:  
 
