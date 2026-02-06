@@ -10,7 +10,7 @@
     - Completed credits: 25  
   
   Alumni of: Tampere High School of Technology  
-    - Matriculation exam average score: Eximia  
+    - Matriculation exam average score: Excimia   
     - GPA: 9.1  
   
   Intrests/Hobbies: Programming / IT, Drawing, Anime, Video games, Game development  
