@@ -54,8 +54,9 @@
 
 ## 👩‍🏭 Other game-dev skills:  
 
-  Beginner: 2D art/pixelart, 3D modeling (blender), texture creation, game music   
-  Intermediate: Game design, UI design   
+  Beginner: 2D art/pixelart, 3D modeling (blender), Texture creation, Game music   
+  Intermediate: UI design, Game balancing, Multiplayer
+  Confident: Gane design, Programming, Teamwork
 
 ## 🧠 Current projects:  
 
