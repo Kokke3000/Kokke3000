@@ -17,10 +17,6 @@
   
   Intrests/Hobbies: Programming / IT, Drawing, Anime, Video games, Game development  
   
-## My stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kokke3000?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-  
-
 ## Languages I know:  
 
   Main: GDScript, C#, Python  
