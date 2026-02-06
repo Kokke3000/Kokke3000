@@ -15,7 +15,25 @@
     - Matriculation exam average score: Excimia   
     - GPA: 9.1  
   
-  Intrests/Hobbies: Programming / IT, Drawing, Anime, Video games, Game development  
+  Intrests/Hobbies: Programming / IT, Drawing, Anime, Video games, Game development
+
+## Taken courses within the field:
+<courses>
+<summary>Courses</summary>
+   
+Programming:    
+  - Programming 1: Python, basics of programming and the use of data-structures and object-orineted programming     
+  - Programming 2: C++, Version controll and git, STL library, dynamic memory managemet, functions and recursion  
+
+IT:  
+  - Signals and Measuring: Basics of electronics, measuring and error analysis, simulation of electronic circuits   
+  - Introduction to Telecommunications: Basics of data digital and analog data transferr, modulation, wired and wireless networks  
+
+Mathematics:  
+  - Introductory Calculus  
+  - Vectors and matricies  
+  - Integrals and differential equations  
+</courses>
   
 ## Languages I know:  
 
