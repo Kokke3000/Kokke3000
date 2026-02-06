@@ -19,14 +19,18 @@
 
 ## Taken courses within the field:
 <courses>
-   
+
+Game development:   
+  - Game development project 1: Basics of unity, C#, Game development, Design, Teamwork in gamedev   
+  - Game development project 2: 2D pixelart, Multiplayer game design, Game balance, RTS design   
+
 Programming:    
-  - Programming 1: Python, basics of programming and the use of data-structures and object-orineted programming     
-  - Programming 2: C++, Version controll and git, STL library, dynamic memory managemet, functions and recursion  
+  - Programming 1: Python, Basics of programming, The use of data-structures, Object-orineted programming     
+  - Programming 2: C++, Version controll and git, STL library, Dynamic memory managemet, Functions and recursion  
 
 IT:  
-  - Signals and Measuring: Basics of electronics, measuring and error analysis, simulation of electronic circuits   
-  - Introduction to Telecommunications: Basics of data digital and analog data transferr, modulation, wired and wireless networks  
+  - Signals and Measuring: Basics of electronics, Measuring and error analysis, Simulation of electronic circuits   
+  - Introduction to Telecommunications: Basics of data transferr, Internet protocolls, Modulation, Wired and wireless networks
 
 Mathematics:  
   - Introductory Calculus  
