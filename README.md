@@ -19,7 +19,6 @@
 
 ## Taken courses within the field:
 <courses>
-<summary>Courses</summary>
    
 Programming:    
   - Programming 1: Python, basics of programming and the use of data-structures and object-orineted programming     
