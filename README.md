@@ -17,9 +17,9 @@
   
   Intrests/Hobbies: Programming / IT, Drawing, Anime, Video games, Game development
 
-## Taken courses within the field:
-<courses>  
 
+<courses>  
+<summary>Taken courses within the field</summary>
 Game development:   
   - Game development project 1: Basics of unity, C#, Game development, Design, Teamwork in gamedev   
   - Game development project 2: 2D pixelart, Multiplayer game design, Game balance, RTS design   
