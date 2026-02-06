@@ -48,11 +48,14 @@
 
   Ikimetsä: https://teklu.itch.io/ikimetsa  
     - 2D survival game, set in the forests of Finland  
-    - Engine: Unity 2019  
+    - Developed during a game-dev course at my high-school (Year 2)  
+    - Engine: Unity  
     - My position: Programmer, Designer and Team lead  
   
   Oilscape: https://teklu.itch.io/oilscape  
     - Top-down RTS game, set in the far future of a post-apocalyptic world  
+    - Also developed during a game-dev course at my high-school (Year 3)  
+    - Engine: Unity  
     - My postion: 2D Artist, Team lead  
   
   Teklu Clicker Online:  
