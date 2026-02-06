@@ -54,7 +54,7 @@
     - Engine: Unity  
     - My postion: 2D Artist, Team lead  
   
-  Teklu Clicker Online:  
+  Teklu Clicker Online: https://kokke3000.github.io/TekluklikkerOnline/  
     - An online version of a Cookie Clicker clone I made, based on my high school  
     - Languages: HTML, CSS, Javascript    
     - Hosted on: Github pages  
