@@ -1,4 +1,5 @@
-# 👋 Hiya!
+
+<img width="1280" height="640" alt="Lillia Mäkinen" src="https://github.com/user-attachments/assets/50109d43-b713-4272-a3ca-0bd37713fb25" />
 
 ## 🌟 About me:  
   Name: Lillia / Lily  
