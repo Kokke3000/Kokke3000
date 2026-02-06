@@ -3,8 +3,8 @@
 ## About me:  
   Name: Lillia / Lily  
   Age: 19  
-  Pronouns: She/Her or It/Its
-  Intrests/Hobbies: Programming, Game development, Drawing, Anime, Video games, Reading
+  Pronouns: She/Her or It/Its  
+  Intrests/Hobbies: Programming, Game development, Drawing, Anime, Video games, Reading  
   
 ## Education:
   Current student of: Tampere University  
