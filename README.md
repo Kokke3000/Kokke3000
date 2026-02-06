@@ -9,7 +9,7 @@
 ## Education:
   Current student of: Tampere University  
     - First year student  
-    - Degree: Bachelor and Diploma-engineer of Information Technology    
+    - Degree: Bachelor and Diploma-engineer of Computer Science  
     - Estimated graduation: 2030  
     - Completed credits: 25
       
