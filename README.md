@@ -3,7 +3,7 @@
 ## About me:  
   Name: Lillia / Lily  
   Age: 19  
-  Pronouns: She/Her or It/It's  
+  Pronouns: She/Her or It/Its  
   
   Current student of: Tampere University  
     - First year student
