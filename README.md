@@ -59,7 +59,7 @@
   #### Intermediate: 
   - UI design, Game balancing, Multiplayer  
   #### Confident: 
-  - Gane design, Programming, Teamwork  
+  - Game design, Programming, Teamwork  
 
 ## 🧠 Current projects:  
 
