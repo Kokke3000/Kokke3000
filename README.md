@@ -14,7 +14,7 @@
   - Completed credits: 25
       
   #### Alumni of: Tampere High School of Technology  
-  - Matriculation exam average score: Excimia   
+  - Matriculation exam average score: Eximia
   - GPA: 9.1
 
   <details>
