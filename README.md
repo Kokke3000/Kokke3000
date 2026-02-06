@@ -21,13 +21,13 @@
 
 ## Languages I know:  
 
-  Main: C++, C#, Javascript, Python, GDscript   
+  Main: GDScript, C#, Python  
   
-  Others: C++, HTML, CSS, PHP,  
+  Others: C++, HTML, CSS, PHP, JavaScript  
 
 ## Other game-dev skills:  
 
-  Beginner: 2D art, 3D modeling (blender), texture creation, game music   
+  Beginner: 2D art/pixelart, 3D modeling (blender), texture creation, game music   
   Intermediate: Game design, UI design   
 
 ## Engines I have used:  
@@ -37,7 +37,7 @@
 
 ## Current projects:  
 
-  Project Neutrino (private):  
+  Project Neutrino (private repository):  
     - A survival / basebuilder roguelike video game  
     - Engine: Godot 4.6  
     - I am developign this game fully as a solo project from scratch  
