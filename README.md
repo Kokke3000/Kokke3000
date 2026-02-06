@@ -3,41 +3,37 @@
 ## About me:  
   Name: Lillia / Lily  
   Age: 19  
-  Pronouns: She/Her or It/Its  
+  Pronouns: She/Her or It/Its
+  Intrests/Hobbies: Programming, Game development, Drawing, Anime, Video games, Reading
   
+## Education:
   Current student of: Tampere University  
     - First year student  
     - Degree: Bachelor and Diploma-engineer of Information Technology    
     - Estimated graduation: 2030  
-    - Completed credits: 25  
-  
+    - Completed credits: 25
+      
   Alumni of: Tampere High School of Technology  
     - Matriculation exam average score: Excimia   
-    - GPA: 9.1  
+    - GPA: 9.1
+
+  <details>
+    <summary>Taken courses within the field</summary>  
+    
+  Game development:   
+    - Game development project 1: Basics of unity, C#, Game development, Design, Teamwork in gamedev   
+    - Game development project 2: 2D pixelart, Multiplayer game design, Game balance, RTS design   
   
-  Intrests/Hobbies: Programming / IT, Drawing, Anime, Video games, Game development
+  Programming:    
+    - Programming 1: Python, Basics of programming, The use of data-structures, Object-orineted programming     
+    - Programming 2: C++, Version controll and git, STL library, Dynamic memory managemet, Functions and recursion  
+    
+  Mathematics:  
+    - Introductory Calculus  
+    - Vectors and matricies  
+    - Integrals and differential equations  
+    </details>
 
-
-<courses>  
-<summary>Taken courses within the field</summary>
-Game development:   
-  - Game development project 1: Basics of unity, C#, Game development, Design, Teamwork in gamedev   
-  - Game development project 2: 2D pixelart, Multiplayer game design, Game balance, RTS design   
-
-Programming:    
-  - Programming 1: Python, Basics of programming, The use of data-structures, Object-orineted programming     
-  - Programming 2: C++, Version controll and git, STL library, Dynamic memory managemet, Functions and recursion  
-
-IT:  
-  - Signals and Measuring: Basics of electronics, Measuring and error analysis, Simulation of electronic circuits   
-  - Introduction to Telecommunications: Basics of data transferr, Internet protocolls, Modulation, Wired and wireless networks
-
-Mathematics:  
-  - Introductory Calculus  
-  - Vectors and matricies  
-  - Integrals and differential equations  
-</courses> 
-  
 ## Languages I know:  
 
   Main: GDScript, C#, Python  
