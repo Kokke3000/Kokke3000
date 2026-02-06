@@ -66,7 +66,8 @@
 #### 🌌 Project Neutrino (private repository):  
   - A survival / basebuilder roguelike video game  
   - Engine: Godot 4.6  
-  - I am developing this game fully as a solo project from scratch  
+  - I am developing this game fully from scratch as a personal project
+  - The game is planned for release, but for now the date is unspecified
 
 ## 🎮 Games I have worked on:  
 
