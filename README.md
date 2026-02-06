@@ -1,4 +1,4 @@
-### Sup!
+### Haiii! :3
 
 ## About me:
   Age: 19
@@ -8,24 +8,18 @@
   Intrests/Hobbies: Programming / IT (duh), Drawing, Figure skating, Video games 
   
 ## My stats:
-[![Kokke3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokke3000)](https://github.com/Kokke3000/github-readme-stats)  
-
-## Top languages:
-(The amount of PHP code is grossly over exaggerated due to all my .html files being .php instead to run php inside of them.)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokke3000)](https://github.com/Kokke3000/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Kokke3000?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+  
 
 ## Languages i know: -
 
-Main: HTML, CSS, PHP, Javascript, Python  
+Main: HTML, CSS, PHP, Javascript, Python, GDscript  
 
 Others: C#, C++  
 
 
 ## Current projects:
 
-Larp net: A UI-website for a larp in the summer of 2023  
-
-CigarLounge: A private chat website.
+Project Neutrino (private): A survival / basebuilder roguelike video game
 
 
