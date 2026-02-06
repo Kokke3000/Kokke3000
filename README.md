@@ -6,8 +6,8 @@
   Pronouns: She/Her or It/Its  
   
   Current student of: Tampere University  
-    - First year student
-    - Degree: Bachelor and Diploma-engineer of Information Technology  
+    - First year student  
+    - Degree: Bachelor and Diploma-engineer of Information Technology    
     - Estimated graduation: 2030  
     - Completed credits: 25  
   
@@ -42,7 +42,7 @@
   Project Neutrino (private repository):  
     - A survival / basebuilder roguelike video game  
     - Engine: Godot 4.6  
-    - I am developign this game fully as a solo project from scratch  
+    - I am developing this game fully as a solo project from scratch  
 
 ## Games I have worked on:  
 
