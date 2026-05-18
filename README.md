@@ -28,11 +28,12 @@
   
   #### Programming:    
   - Programming 1: Python, Basics of programming, The use of data-structures, Object-orineted programming     
-  - Programming 2: C++, Version controll and git, STL library, Dynamic memory managemet, Functions and recursion  
+  - Programming 2: C++, Version controll and git, STL library, Dynamic memory managemet, Functions and recursion    
+  - Programming 3: C++, Interfaces, Object orinted programming, Large projects and abstraction    
     
   #### Mathematics:  
   - Introductory Calculus  
-  - Vectors and matricies  
+  - Vectors and matricies
   - Integrals and differential equations   <br />
     <br />
     </details>
