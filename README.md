@@ -69,7 +69,7 @@
   - Engine: Godot 4.6  
   - I am developing this game fully from scratch as a personal project  
   - The game is planned for release, but for now the date is unspecified  
-### ♟️🃏 Project Gluon (public repo):  
+#### ♟️🃏 Project Gluon (public repo):  
   - A game about mixing board game instruments like cards, chess and dice  
   - Each player chooses one to create a mix, and then battle it out  
   - A solo portfolio project just to learn godot better  
